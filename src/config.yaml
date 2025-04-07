@@ -1,0 +1,13 @@
+hf_data:
+  hf_dataset_name: openai/gsm8k
+  file_path_to_save: 
+  random_subset_size: 250
+
+
+
+file_paths:
+  hf_data: 
+  hf_data_subset: 
+  opro_training_subset: 
+
+
